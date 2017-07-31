@@ -1,5 +1,11 @@
 {
-    "require": {
-        "test": "^1.0"
-    }
+    "name":             "oswin/test",
+    "description":      "test website",
+    "keywords":         ["oswin", "oswin-test", "test"],
+    "time":             "2017-07-31",
+    "license":          "MIT",
+    "authors": [{
+        "name":         "oswin.hu",
+        "email":        "506711663@qq.com",
+    }]
 }
